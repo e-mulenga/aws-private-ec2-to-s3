@@ -171,10 +171,3 @@ terraform destroy
 
 **Emmanuel Mulenga** — Multi-Cloud Security Engineer | AWS (6x) | Terraform | CLLMSP
 - LinkedIn: [linkedin.com/in/emmanuel-mulenga](https://www.linkedin.com/in/emmanuel-mulenga)
-- GitHub: [github.com/e-mulenga](https://github.com/e-mulenga)
-
----
-
-## 📄 License
-
-MIT License — free to use, modify and distribute with attribution.
